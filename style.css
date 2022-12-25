@@ -9,6 +9,8 @@
 * {
 	margin: 0;
 	padding: 0;
+	/* Change the font below */
+	font-family: 'Times New Roman', Times, serif;
 }
 body {
 	display: flex;
