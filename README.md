@@ -9,6 +9,8 @@ This is what will you get in this code...
 
 Image Hover Rotate Horizontal, features:
 
+[HTML-CSS_ImageHover-RotateHorizontal.webm](https://user-images.githubusercontent.com/106858846/209463950-56973370-75f3-48ad-bb57-3cc9b937f905.webm)
+
 - Horizontally rotate image facing the cursor when mouse hover
 - No limit of how many images can be added, recommendation: 3-4 images (desktop), 3-12 images (mobile)
 - Auto wrapping images according to the number of images
